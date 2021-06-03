@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The round-heads catechisme or the netwer catechising the Anabaptists Puritans, seperatists, and well-affected under the name of round-heads. With the joynt answer to the same.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92004</idno><idno type="EEBO-CITATION">99867698</idno>
+  <idno type="VID">169466</idno>
+  <idno type="EEBO-PROQUEST">2240954305</idno>
+  
+            <idno type="STC">Wing R2008</idno>
+            <idno type="STC">Thomason E1205_1</idno>
+            <idno type="STC">ESTC R208776</idno>
+            <idno type="PROQUEST">99867698</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867698e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92004)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169466)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 168:E1205[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The round-heads catechisme or the netwer catechising the Anabaptists Puritans, seperatists, and well-affected under the name of round-heads. With the joynt answer to the same.</title>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare of our Lord, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous; last page reads: the author dwell's in Angell alley in whit-Chappell. Also he will be thankefull to you, if you will buy of him good peniworths of sugar, spices or small wares.</note>
+                  <note>Annotation on Thomason copy: "Apr 3rd".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Roundheads --  Apologetic works --  Early works to 1800.</term>
+               <term type="topical_term">Religious tolerance --  England --  Early works to 1800.</term>
+               <term type="topical_term">Separatists --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169466:1"/>
+            <p>THE ROUND-HEADS CATECHISME: OR The New<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Catechising the Anabaptists Puritans, Sepera<g ref="char:EOLhyphen"/>tists, and well-affected under the name of Round-Heads.</p>
+            <p>With their joynt Answer to the same.</p>
+            <p>LONDON, <hi>Printed in the Yeare of our Lord,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:169466:2"/>
+            <pb n="3" facs="tcp:169466:2"/>
+            <head>THE ROUND-HEADS Catechisme.</head>
+            <sp>
+               <speaker>Question.</speaker>
+               <p>
+                  <hi>WHAT are your Names?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Answer.</speaker>
+               <p>Round-Head.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>Are you all of that name?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Yea.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>VVho gave you that name?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Our backbiters, and
+<pb n="4" facs="tcp:169466:3"/>slanderers, in our infamy, wherein, we were made won<g ref="char:EOLhyphen"/>derlings to worldy-wise, a jeering-stocke to fooles, and inheritors of the scorne, and reproch of all the rabble of the Antichristian Kingdom of darknesse.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>How came you to be all of that name?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Because our backbiters and slanderers would have it so, as others that will not an<g ref="char:EOLhyphen"/>swer for a Child except they may have the name.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>VVas it without your fa<g ref="char:EOLhyphen"/>thers consent?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:169466:3"/>
+               <speaker>A.</speaker>
+               <p>Yea.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>VVould your Fa: then have had you called</hi> Anabaptists, Separatists, Puritants <hi>&amp;c?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>No, but our backbi<g ref="char:EOLhyphen"/>ters and slanderers, were dif<g ref="char:EOLhyphen"/>ferent about them, but agre<g ref="char:EOLhyphen"/>ed on the name Round-head for us all.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>VVhat did your backbi<g ref="char:EOLhyphen"/>ters, and slanderers, then a<g ref="char:EOLhyphen"/>gainst you?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Their practises did pro<g ref="char:EOLhyphen"/>mise three things to our shame: First, that they will make us as odious as they can: Secondly, that they will
+<pb n="6" facs="tcp:169466:4"/>worke our destructiō, if they can: Thirdly, they wish GOD would dam them, if they do not what they can to destroy us.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>Doe you not think that you may beleeve these premises and feare their threatnings?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>We doubt not but they intend to performe all their wicked promises, and doe what they can against us; but we beleeve God, who have promised to deliver us; and therfore we will by his grace, not feare them that can but kill the body, but we pray
+<pb n="7" facs="tcp:169466:4"/>God if it be his will, not to dam them, as they ignorant<g ref="char:EOLhyphen"/>ly wish; but overcome them by his love, and keepe them from damnation, for his glory, &amp; their comfort.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>But your enemies are ma<g ref="char:EOLhyphen"/>ny in number, and great in power, and are violently bent against you, how shall you escape?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>If God be our friend, as he hath promised, and we be<g ref="char:EOLhyphen"/>leeve, whom shall we feare; for neither <hi>Achitophell,</hi> nor <hi>Iudas,</hi> the <hi>Irish</hi> Rebells, nor mad men in the North, the Cavaliers, nor Lordly Pre<g ref="char:EOLhyphen"/>lates
+<pb n="8" facs="tcp:169466:5"/>with all their strength, although as great as the sea<g ref="char:EOLhyphen"/>ven headed beast can make it, can hurt us.</p>
+            </sp>
+            <sp>
+               <speaker>Q</speaker>
+               <p>
+                  <hi>But what if the King be your enemy, will you not feare him?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>We are taught to honor and obey him, and also to pray for him, as Gods chiefe Magistrate and steward over us all, which by Gods grace we do, and purpose constant<g ref="char:EOLhyphen"/>ly to do; in which conside<g ref="char:EOLhyphen"/>ration, we have no cause to feare his Majesty, for can we think he will harme us, if we
+<pb n="9" facs="tcp:169466:5"/>doe well. 1. <hi>Peter,</hi> 3.13. <hi>Rom.</hi> 13.3.</p>
+            </sp>
+            <sp>
+               <speaker>Q</speaker>
+               <p>
+                  <hi>Can nothing hurt you, what strange creaturs are you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Persecution cannot for it is out livery or cullets to shew whose souldiers we are and under whom we fight; the way to hurt us, is to let us have ease, for we are as Cammamill, the more it is trod on, they say, the sweter it smels and the better it growes.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>But will your confidence hold thinke you, will not the feare of prisons, Pillories, losse
+<pb n="10" facs="tcp:169466:6"/>of eares, hanging, burning, or other torments bring downe your courage.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>If it were of our owne making and set upon our owne sandy foundation no dout but it must needs come downe, but if our God have made our confidence and founded it on the rock and chiefe corner stone Iesus Christ, we doubt not but through his strength it will stand firme as Mount Sion that cannot be remooved.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>But I heare his Majesty conceives you are his enemies,
+<pb n="11" facs="tcp:169466:6"/>&amp; plot mischiefe against him.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>No doubt his Majesty may so conceive of us, be<g ref="char:EOLhyphen"/>leeving those that give false information of us, but if his Majesty read his Cronicles, he shall finde us as innocent, and harmelesse as <hi>Mordecai,</hi> and the <hi>Iewes</hi> whom <hi>Haman</hi> got commission to destroy, as the Prelats and Papists would do us.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>VVhat is the reason they tax you with nothing but your private meetings &amp; preaching in Tubs, and not baptizing your Children, and not coming
+<pb n="12" facs="tcp:169466:7"/>to Church, and the like?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Because they cannot tax us with publick ryotous combustions, drunken quar<g ref="char:EOLhyphen"/>rells, nor trayterous laying Tubs of Gun powder under Parl: so that they through Gods goodnesse, as <hi>Dani<g ref="char:EOLhyphen"/>els</hi> enemies know, that they shall finde nothing against us, except concerning the law of our God.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>But they say, you preach in tubs and hollow trees, is that true or no?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I say to you, as <hi>Phillip</hi> to <hi>Nathaniell,</hi> come and see;
+<pb n="13" facs="tcp:169466:7"/>but they do not tell you, they saw, and heard us preach in Tubs; for they be none of our Auditors, that speak so of us: but because their prei<g ref="char:EOLhyphen"/>sts preach in Pulpits, they thinke it must be in some round thing, else tis no prea<g ref="char:EOLhyphen"/>ching: and in houses, Tubs are more frequent then pul<g ref="char:EOLhyphen"/>pits.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>But they certifie his Ma<g ref="char:EOLhyphen"/>jesty, that you are the great disturbers of the Peace, &amp; the cause of this unnaturall VVar, and so destructive in his King<g ref="char:EOLhyphen"/>dome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:169466:8"/>
+               <speaker>A.</speaker>
+               <p>If our owne m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uth or pe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> justifie us, it is nothing; there<g ref="char:EOLhyphen"/>fo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e we are willing to have out actiōs tryed by the unerring rule of the word of God. Obedience, whereunto we hope is not di<g ref="char:EOLhyphen"/>structive to a Kingdom, although the Prelats, as <hi>Hamon,</hi> wou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d worke our distruction; because we dare not in conscience bow to them as <hi>Mordecai</hi> durst not to that agagit, <hi>Hester.</hi> 3.2. But I hope you cannot forget, that the Prelats were the first beginners of these troubles, by urging their Service-booke upon the <hi>Scots;</hi> for resisting whereof, they stirred up his Maiesty by relation, to raise an army against them, which fire of theirs then kindled,
+<pb n="15" facs="tcp:169466:8"/>their practise have bin to their power, to blow and encrease e<g ref="char:EOLhyphen"/>ver since, and we hope, you will not say, that we help forward their wicked designes, for we op<g ref="char:EOLhyphen"/>pose them, &amp; all their Ministers, and their way, and entrance into office, and Ministry, to be all Anti-Christian: and therefore we, especially <hi>Anabaptists,</hi> and <hi>Seperatists,</hi> as we will not heare them, so neither shall they tast of our tithes, or offrings, till they aprove themselves the ministers of Christ, by his word, and then we promise to pay them all, for time to come, and make up what they thinke is behind; and that we by the help of God although we be weake in regard of human
+<pb n="16" facs="tcp:169466:9"/>learning, yet we will at any time account it our priviledge to dis<g ref="char:EOLhyphen"/>pute the cause with any of them, before either godly Magistrats, or Christians from the word of God, although indeed our Bro<g ref="char:EOLhyphen"/>ther <hi>Puritan</hi> and vvell affected, are not altogether cleere for this but we conceive, they can<g ref="char:EOLhyphen"/>not aprove themselves Ministers for Christ nor for his People but for mony for tithes, for honors, pleasures and ease, they have mens Persons in admiration, for these advantages, and so with fained words, they make Mar<g ref="char:EOLhyphen"/>chan lise of them: but if there be a flock a hundred miles distant that have a warmer fleece, and sweeter milke, to cloth and feed,
+<pb n="17" facs="tcp:169466:9"/>I meane a greater benefice, then let who will looke to their flock, over whom indeed, not Christ, but Antichrist made them over<g ref="char:EOLhyphen"/>seers. Whereas, our Ministers of Christ, if we give them no<g ref="char:EOLhyphen"/>thing, they will aske us nothing; but will worke vvith their own hands, according to <hi>Paules</hi> ex<g ref="char:EOLhyphen"/>ample and rule. <hi>Acts,</hi> the 20.34.35. and vvill not only teach us, but also Minister to our vvants i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vve have more need and count it their happinesse vvhen they can do Gods people either spiri<g ref="char:EOLhyphen"/>tuall or temporall good, and if you say they knovv not the ori<g ref="char:EOLhyphen"/>ginalls nor the tongues, &amp; have not the vvrightings of the Fa<g ref="char:EOLhyphen"/>thers, nor long time of study: and
+<pb n="18" facs="tcp:169466:10"/>therefore they cannot be the Mi<g ref="char:EOLhyphen"/>nisters of Christ. We ansvver, Christ have promised to teach them, and they can study as vvell at their callings as antichrists Mi<g ref="char:EOLhyphen"/>nisters in their studies, or great Libraries. Else judge the tree by the fruit, the vvorkeman by the vvorke see if there be more Ido<g ref="char:EOLhyphen"/>laters, adulterers drunkards, thee<g ref="char:EOLhyphen"/>ves, extortioners covetous, blas<g ref="char:EOLhyphen"/>phemers, or liers, amongst us or them. Although vve haue no cause to bo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st for if vve in the least be free of any of these sins, no thanke to us but to him that vvork's the same againe if they preach Christ vvith <hi>Paule,</hi> they vvill vvith him acknovv<g ref="char:EOLhyphen"/>ledge themselves our servants for
+<pb n="19" facs="tcp:169466:10"/>his sake. Then if they be our ser<g ref="char:EOLhyphen"/>vants for his sake, then they vvill not require vvages of us. Then tis for the vv<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ges sake, Christs Mi<g ref="char:EOLhyphen"/>nisters have a holy scorne to come to u<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for vvag<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s for their vvorke.</p>
+               <p>Or much lesse to bargaine for any, <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>hough indeed his people know that it is their duty not to see any poor mi<g ref="char:EOLhyphen"/>nister of Christ want neces<g ref="char:EOLhyphen"/>saries, his law is a law of love not of ungratefulnesse to the messengers of Christ, whome you may know by these markes, 1. They come
+<pb n="20" facs="tcp:169466:11"/>in by the door, &amp; not climbe up any other way, <hi>Ioh.</hi> 10.1.2.2 They have his hand in his word to their testimony, which who so hath we will acknowledge to be the mini<g ref="char:EOLhyphen"/>ster of Christ, thus master Newter I am bold to tell you, that I hope if his Ma<g ref="char:EOLhyphen"/>jesty or any of his freinds did know the truth of us, they would not thinke so hardly of us.</p>
+            </sp>
+            <sp>
+               <speaker>Master Newter,</speaker>
+               <p>Indeed I thinke so, but what shall you doe in this case.</p>
+            </sp>
+            <sp>
+               <pb n="21" facs="tcp:169466:11"/>
+               <speaker>Anabaptist.</speaker>
+               <p>I will confere with my bre<g ref="char:EOLhyphen"/>thren and speake with you againe.</p>
+            </sp>
+            <sp>
+               <speaker>Seperatist.</speaker>
+               <p>What is best to do here<g ref="char:EOLhyphen"/>in.</p>
+            </sp>
+            <sp>
+               <speaker>Anabaptist.</speaker>
+               <p>For my part, I conceive it is best to follow <hi>Hesters</hi> ex<g ref="char:EOLhyphen"/>ample, if not fast three dayes &amp; 3. nights, yet to seeke God in our severall Churches or Assemblies in an extrordina<g ref="char:EOLunhyphen"/>ry māner, as she did, seeing we are in extrordinary dan<g ref="char:EOLhyphen"/>ger as she then was and her
+<pb n="22" facs="tcp:169466:12"/>people.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>It were very good, but a<g ref="char:EOLhyphen"/>las we fea<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e if our enemies should know it they would pull downe our houses over our heads as they have done by some already.</p>
+            </sp>
+            <sp>
+               <speaker>Anabaptist</speaker>
+               <p>If our wayes please the Lord he will make our Ene<g ref="char:EOLhyphen"/>mies at peace with us.</p>
+            </sp>
+            <sp>
+               <speaker>Seperatist</speaker>
+               <p>But how comes this em<g ref="char:EOLhyphen"/>nity.</p>
+            </sp>
+            <sp>
+               <speaker>Anabaptist</speaker>
+               <p>Truly some thinke from
+<pb n="23" facs="tcp:169466:12"/>our selves by being so pri<g ref="char:EOLhyphen"/>vate in our meetings, if it be so brethren, out affliction is Iust upon us for we conceive it fit to let all heare that will and the more come to heare us the more wellcome, how say you brethren do not you allow the same to which all answer yes, then brethren we will print the same, that they may know our minds, for it may be they do not think so, the answer of all 'tis our de<g ref="char:EOLhyphen"/>sire; for they are flesh of our flesh, and bone of our bone, of the lost stock of <hi>Adam</hi> as
+<pb n="24" facs="tcp:169466:13"/>we were, and are by nature. And we were as they yet are blind and could not see our lost condition, as they now cānot till Iesus Christ found us and brought us into his way, and now let us in love pray him to bring them in to his way also, and then they will walke with us in the same, &amp; we with them in all godly mutuall love and kind behaviour, and car<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>age each to other, and so our God shall have glory andour our selves comfort and edification.</p>
+               <p>For truly they that hate us most
+<pb n="25" facs="tcp:169466:13"/>and most cruelly persecute us, do not more by us then we our selves the best of us naturally did and would do any that love God and his wayes. But if as our Saviour commanded us we <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et our light shine before men, then they seing our good worke will be sooner wonne to be <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n love with our vvayes then by hearing our good words and so glorify our father vvhich is in heaven. Then vve returne to you our brethren ac<g ref="char:EOLhyphen"/>cording to the flesh to certify you that as we are bound to obey God in walking according as he requireth us in his w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd, so we are not onely content that where as you may conceive, that we meete for evill practises, you
+<pb n="26" facs="tcp:169466:14"/>would come and see but also to report of us and do by us accor<g ref="char:EOLhyphen"/>ding as you see our practice de<g ref="char:EOLhyphen"/>serve, for God teacheth us, that they that do truth are willing that their deeds should be made manifest <hi>Iohn</hi> the 3.20. Where<g ref="char:EOLhyphen"/>as they that do evill hate the light that should manifest their acti<g ref="char:EOLhyphen"/>ons, and when you see our acti<g ref="char:EOLhyphen"/>ons and practis to be good wher<g ref="char:EOLhyphen"/>as yet you by report Iudge it to be evill we doubt not but God will move you to speake of us and do by us according as you shall see, not according as you have heard at the report of slanderers.</p>
+               <p>For indeed we beleve there are many that speake evill of our way that would not if they knew the
+<pb n="27" facs="tcp:169466:14"/>truth of it, and so they speake e<g ref="char:EOLhyphen"/>vill of what they know not, there fore freinds we are resolved to do what God require of us, and not to hinder any that would be<g ref="char:EOLhyphen"/>hold our practises, seeing our God sayes who shall harme us, if we do well, and therefore seeing that God requires of us of us if we be converted to strengthen our bre<g ref="char:EOLhyphen"/>thren, and seing againe, that the hearts of Kings are in the hands of God, as the rivers of waters, and he turnes them which vvay soever it pleaseth him and see<g ref="char:EOLhyphen"/>ing he hath said, vvhen a mans vvayes please the Lord he mak<g ref="char:EOLhyphen"/>eth his ene<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies at peace with him; and againe seing some of us have seen, that God hatd veri<g ref="char:EOLhyphen"/>fied
+<pb n="28" facs="tcp:169466:15"/>this truth in some of our ex<g ref="char:EOLhyphen"/>perience some that have come by their ovvne confussion, intending our hurt, God hath met them then, for their and our good; and thus vvhen vve desire to cleere us, before God and all men, that vve in love to our brethren, and all men and vvomen in the vvorld vve desire and endeavoure to please God and do good to all, that if they yet hate us, it may after truly be said they hated us without a cause.</p>
+            </sp>
+            <trailer>FJNJS.</trailer>
+         </div>
+         <div type="religious_tract">
+            <pb n="29" facs="tcp:169466:15"/>
+            <p>THen Brethren, let us not avenge our selves, but re<g ref="char:EOLhyphen"/>member the Counsell of Christ; if thine enemy hun<g ref="char:EOLhyphen"/>ger, feed him: if he thirst, give him drinke. And that of <hi>Paule,</hi> be not overcome of evill, but overcome evill with good. then whatsoever their tounge say, their cons<g ref="char:EOLhyphen"/>cience will cleere us. Thus when all men and woman see that our practises are accor<g ref="char:EOLhyphen"/>ding to the rule of God, and his perfect law of love, they will say the aspertions that have been laid upon us, have bin without a cause Then <gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+            </p>
+            <pb n="30" facs="tcp:169466:16"/>
+            <p>WHo verily beleeveth that if he might be heard that God would shew by him a way of deliverance of this City and places yet unplundered in a way very acceptable to God and ac<g ref="char:EOLhyphen"/>c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ptable to all his Majesties subjects, except such as are p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble oposers of King &amp; Parliamen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, if they can but beleve that God can declare secrets by them that feare him, as well as reveale his se<g ref="char:EOLhyphen"/>crets
+<pb n="31" facs="tcp:169466:16"/>to them that feare him <hi>Psal.</hi> the 25.14. and that he will not only make it apeare possible but also very proba<g ref="char:EOLhyphen"/>ble and very cheape.</p>
+            <p>But remember the woman that would not come to Christ till all her money was spent upon Physitians but doe not follow her ex<g ref="char:EOLhyphen"/>ample but remember some<g ref="char:EOLhyphen"/>times the waters of Iordā are beter then <hi>Abana</hi> and <hi>Phar<g ref="char:EOLhyphen"/>phar</hi> to clense <hi>Naaman,</hi> som<g ref="char:EOLhyphen"/>times <hi>Davids,</hi> sling thē <hi>Sauls</hi> swoard and coat of male, and gidions Lampes pitchers
+<pb n="32" facs="tcp:169466:17"/>and Rams hornes beter then all the weapons and strength of the host of <hi>Median.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>Who can also informe any ho<g ref="char:EOLhyphen"/>nest man in his honest cause what to do in most common cau<g ref="char:EOLunhyphen"/>ses or suits of Law and shew how he may do for his best ad<g ref="char:EOLhyphen"/>vantage against his adversary for nothing</p>
+            <p>The author dwell's in An<g ref="char:EOLhyphen"/>gell alley in whit-Chappell.</p>
+            <p>Also he will be thankefull to you, if you will buy of him, good peni<g ref="char:EOLhyphen"/>worths of Sugar, Spices or small wares.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:169466:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
